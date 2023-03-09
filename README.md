@@ -9,6 +9,6 @@ En hemsida för webbutvecklares frågor och synpunkter
 - Vad jag generellt behöver göra: Se till att den är kopplad till databas och fungerar
 
 ### 9 mars
--Vad jag har gjort: Lagt till "Forum" och "Skapa inlägg" som länkar i en navbar och skrivit en header för kategorier
--Vad jag ska göra nästa gång: Göra att forum kan hämta posts och visa rubrik, text och bild
-Vad jag generellt behöver göra: Lägga ner mycket arbete på de funktioner och saker som ska finnas på hemsidan
+- Vad jag har gjort: Lagt till "Forum" och "Skapa inlägg" som länkar i en navbar och skrivit en header för kategorier
+- Vad jag ska göra nästa gång: Göra att forum kan hämta posts och visa rubrik, text och bild
+- Vad jag generellt behöver göra: Lägga ner mycket arbete på de funktioner och saker som ska finnas på hemsidan
